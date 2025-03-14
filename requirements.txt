@@ -1,0 +1,8 @@
+pandas
+numpy
+matplotlib
+seaborn
+sklearn
+pickle
+mpl_toolkits
+xgboost
