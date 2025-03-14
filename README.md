@@ -10,6 +10,7 @@
 - **xgb_model.pkl**: Binary file storing trained model.
 - **pca.pkl**: Binary file to transform data using pca.
 - **x_scaler.pkl**: Binary file storing scaling parameter (satndar scaler).
+- **insights.pdf**: Insights and summary on the project
 
 ## Prerequisites
 Run the following command in the terminal after navigating to the project's directory:
